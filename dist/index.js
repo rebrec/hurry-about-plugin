@@ -9,6 +9,6 @@ export default class PluginBoilerplate extends Plugin{
         api.store.uiState.addView('About', About(api)); 
         api.menu.insertMenuItem('Help',{label: "&About", click: () => api.store.uiState.showModal('About')});
     }
-
+ 
     
 } 
