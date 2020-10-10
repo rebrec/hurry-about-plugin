@@ -21,5 +21,8 @@
   "homepage": "https://github.com/rebrec/hurry-about-plugin#readme",
   "devDependencies": {
     "np": "^6.5.0"
+  },
+  "dependencies": {
+    "hurry-plugin-definition": "^1.0.2"
   }
 }

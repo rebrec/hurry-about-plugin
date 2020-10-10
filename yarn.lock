@@ -786,6 +786,11 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
+hurry-plugin-definition@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/hurry-plugin-definition/-/hurry-plugin-definition-1.0.2.tgz#131aef7759da03e6160ddd61d0523f85783313d9"
+  integrity sha512-Mx/4gAbYwcqYyiGb0x8TE+t2jceaJ2ylfcUhAtzX8AvTWtmVPTCUj7lF2bMjgLJPbDyIhTu/7Kd9xFYUVIlNFg==
+
 iconv-lite@^0.4.24:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"

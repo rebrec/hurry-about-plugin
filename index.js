@@ -1,9 +1,9 @@
-import Plugin from '../../src/core/Plugin'
+import Plugin from 'hurry-plugin-definition'
 import About from './About.jsx'
 
 
 
-export default class PluginBoilerplate extends Plugin{
+export default class AboutPlugin extends Plugin{
     constructor(api){
         super(api);
         api.store.uiState.addView('About', About(api)); 
